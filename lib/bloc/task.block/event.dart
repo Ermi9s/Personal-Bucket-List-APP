@@ -1,0 +1,4 @@
+class TaskEvent {
+  const TaskEvent();
+}
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125426706541",
+    "project_id": "blist-e9388",
+    "storage_bucket": "blist-e9388.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125426706541:android:70a71594d93c11d9113764",
+        "android_client_info": {
+          "package_name": "com.example.kum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqebmUspS7QY-uqqWNLycCD0LYXXkX3uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
